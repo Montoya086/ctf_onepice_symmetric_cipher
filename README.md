@@ -36,7 +36,7 @@ cd CTF_INTRO_CIFRADOS
 
 2. Instalar dependencias
 ```bash
-pip3 install -r scripts/requirements.txt
+pip3 install -r resources/requirements.txt
 ```
 
 3. Ejecuta el script de python
